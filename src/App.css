@@ -6,7 +6,24 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+tr{
+  margin-top: 10px !important;
+}
+.form-head{
+  text-align: center;
+  /* border: 1px solid; */
+  /* box-shadow: 2px 2px 2px 2px white; */
+  /* padding: 10px; */
+}
+.add{
+  border-radius: 50%;
+}
+.form-page{
+  /* text-align: center; */
+  border: 1px solid;
+  box-shadow: 2px 2px 2px 2px white;
+  padding: 10px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
